@@ -102,6 +102,7 @@ SEE THE IMAGES FOR A GENERAL IDEA
   Provide these commands in your configure section 
   
    IN EXECUTE SHELL FOLLOW THESE COMMANDS PROVIDED IN IMAGE
+   
   ![Job3](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job3_1.png)
   ![Job3](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job3_2.png)
   ![Job3](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job3_3.png)
