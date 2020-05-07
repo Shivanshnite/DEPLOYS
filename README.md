@@ -63,7 +63,7 @@ SEE THE IMAGES FOR A GENERAL IDEA
    Create a job and go to configure of your job and fill the data provided in image and give url of your *Git repository/master branch* in SCM and select the branch master.
     Next go to BUILD TRIGGER and tick this option GitHub hook trigger for GITScm polling to trigger automatically
     
-    ![configure](https://github.com/Shivanshnite/DEPLOYS/blob/master/configure.png)
+   ![configure](https://github.com/Shivanshnite/DEPLOYS/blob/master/configure.png)
     
     
     IN EXECUTE SHELL FOLLOW THESE COMMANDS PROVIDED IN IMAGE
