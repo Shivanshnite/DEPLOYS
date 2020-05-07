@@ -66,7 +66,7 @@ SEE THE IMAGES FOR A GENERAL IDEA
     
     
     IN EXECUTE SHELL FOLLOW THESE COMMANDS PROVIDED IN IMAGE
-   ![JOB2_1](https://github.com/Shivanshnite/DEPLOYS/blob/master/job2_1.png)
+   ![JOB2_1](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job2_1.png)
    ![JOB2_2](https://github.com/Shivanshnite/DEPLOYS/blob/master/job2_2.png)
    ![JOB2_3](https://github.com/Shivanshnite/DEPLOYS/blob/master/job2_3.png)
     
@@ -81,7 +81,7 @@ SEE THE IMAGES FOR A GENERAL IDEA
   Same as Production Job only there is a difference is select the branch to deploy
   Remote trigger in Build trigger because with this we can trigger this job remotely and as soon as we push this job will run automatically.
   
-  ![JOB1](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job1_1.png)
+  ![JOB1](https://github.com/Shivanshnite/DEPLOYS/blob/master/job1_1.png)
   ![JOB1](![JOB1](https://github.com/Shivanshnite/DEPLOYS/blob/master/job1_2.png)
   ![JOB1](![JOB1](https://github.com/Shivanshnite/DEPLOYS/blob/master/job1_3.png)
   
