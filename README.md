@@ -103,12 +103,12 @@ SEE THE IMAGES FOR A GENERAL IDEA
   
   ## IN EXECUTE SHELL FOLLOW THESE COMMANDS PROVIDED IN IMAGE
    
-  ![Job3_1](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job3_1.png)
+  ![Job3_1](https://github.com/Shivanshnite/DEPLOYS/blob/master/job3_1.png)
   
-  ![Job3_2](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job3_2.png)
+  ![Job3_2](https://github.com/Shivanshnite/DEPLOYS/blob/master/job3_2.png)
   
-  ![Job3_3](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job3_3.png)
+  ![Job3_3](https://github.com/Shivanshnite/DEPLOYS/blob/master/job3_3.png)
   
-  ![Job3_4](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job3_4.png)
+  ![Job3_4](https://github.com/Shivanshnite/DEPLOYS/blob/master/job3_4.png)
   
   
