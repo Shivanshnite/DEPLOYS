@@ -1,4 +1,4 @@
-#HOME WORK SUMMARY
+# HOME WORK SUMMARY
 
 Assuming that git,docker and Jenkins are installed in the user respective system.
 
@@ -10,19 +10,19 @@ In this project there are two environment created using docker
 
 For making this AUTOMATED(END-END) we are using jenkins
 
-IN GIT HUB REPO :
+## IN GIT HUB REPO :
 
 ![NEW REPOSITORY](https://github.com/Shivanshnite/DEPLOYS/blob/master/new%20repository.png)
 
 Consider there are two branches master and deploy according to my repository and whatever happen in the master is showed in Production Environment and changes made in deploy is shown in Testing Environment
 
-IN GIT BASH:
+## IN GIT BASH:
 
 Supposing user has created two branches in git bash and using remote linked to the origin account github/user_name/user_content/branch_name/.com 
 supposing user commit and pushed into github
 
 
-STEPS TO MAKE END TO END AUTOMATE:
+### STEPS TO MAKE END TO END AUTOMATE:
 
 PreRequisite:
 Server OS(REHL8/etc)
@@ -34,28 +34,28 @@ In RHEL8.0 Firewall should be stop (systemctl stop firewalld)
 
 
 
-##1.CREATE GIT REPOSITORY
+## 1.CREATE GIT REPOSITORY
 SEE THE IMAGES FOR A GENERAL IDEA
 ![NEW REPOSITORY](https://github.com/Shivanshnite/DEPLOYS/blob/master/new%20repository.png)
 ![branch_change](https://github.com/Shivanshnite/DEPLOYS/blob/master/Branch.jpg)
 
 
-##2.GIVING JENKINS POWER TO RUN COMMAND ON REDHAT LINUX 8
+## 2.GIVING JENKINS POWER TO RUN COMMAND ON REDHAT LINUX 8
 
   Editing the file *sudoers* in your RHEL8.0
   
   
-##3.TUNNELING
+## 3.TUNNELING
 
   For tunneling I'm using ngrok you can use this application or similar application in RHEL8
  `*./ngrok https 8080*` this command will help to run a tunnel which will help to connect the jenkins to outside world.
  
-##4.WEBHOOK
+## 4.WEBHOOK
   In your repository there is an option of settings go to Settings/Webhooks and add webhook there 
   For adding webhook use the tunneling ip which was provided by ngrok:
                   `https://ngrok_ip/github-webhook/`
   
-##5.creating the production job in jenkins
+## 5.creating the production job in jenkins
 
    ![JOB_create](https://github.com/Shivanshnite/DEPLOYS/blob/master/job_create.PNG)
    
@@ -72,7 +72,7 @@ SEE THE IMAGES FOR A GENERAL IDEA
     
     
 
-##6.Creating the developer Job in Jenkins
+## 6.Creating the developer Job in Jenkins
 
   ![JOB_create](https://github.com/Shivanshnite/DEPLOYS/blob/master/job_create.PNG)
   
@@ -86,7 +86,7 @@ SEE THE IMAGES FOR A GENERAL IDEA
   ![JOB1](![JOB1](https://github.com/Shivanshnite/DEPLOYS/blob/master/job1_3.png)
   
   
-##7.MERGING JOB in jenkins
+## 7.MERGING JOB in jenkins
   
   ![JOB_create](https://github.com/Shivanshnite/DEPLOYS/blob/master/job_create.PNG)
   
@@ -101,7 +101,7 @@ SEE THE IMAGES FOR A GENERAL IDEA
   
   Provide these commands in your configure section 
   
-   IN EXECUTE SHELL FOLLOW THESE COMMANDS PROVIDED IN IMAGE
+  ## IN EXECUTE SHELL FOLLOW THESE COMMANDS PROVIDED IN IMAGE
    
   ![Job3_1](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job3_1.png)
   
