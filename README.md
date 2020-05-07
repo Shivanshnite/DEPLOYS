@@ -49,6 +49,7 @@ SEE THE IMAGES FOR A GENERAL IDEA
 
   For tunneling I'm using ngrok you can use this application or similar application in RHEL8
  `*./ngrok https 8080*` this command will help to run a tunnel which will help to connect the jenkins to outside world.
+ ![# ngrok] (https://github.com/Shivanshnite/DEPLOYS/blob/master/ngrok.PNG)
  
 ## 4.WEBHOOK
   In your repository there is an option of settings go to Settings/Webhooks and add webhook there 
