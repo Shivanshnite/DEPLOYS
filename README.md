@@ -66,9 +66,9 @@ SEE THE IMAGES FOR A GENERAL IDEA
     
     
     IN EXECUTE SHELL FOLLOW THESE COMMANDS PROVIDED IN IMAGE
-   ![JOB2_1](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job2_1.png)
-   ![JOB2_2](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job2_2.png)
-   ![JOB2_3](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job2_3.png)
+   ![JOB2_1](https://github.com/Shivanshnite/DEPLOYS/blob/master/job2_1.png)
+   ![JOB2_2](https://github.com/Shivanshnite/DEPLOYS/blob/master/job2_2.png)
+   ![JOB2_3](https://github.com/Shivanshnite/DEPLOYS/blob/master/job2_3.png)
     
     
 
