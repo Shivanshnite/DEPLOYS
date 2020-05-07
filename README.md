@@ -106,7 +106,6 @@ SEE THE IMAGES FOR A GENERAL IDEA
   ![Job3](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job3_1.png)
   ![Job3](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job3_2.png)
   ![Job3](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job3_3.png)
-  ![Job3](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job3_4.png)
-  
+  ![Job3](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job3_4.png
   
   
