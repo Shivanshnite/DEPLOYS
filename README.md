@@ -66,9 +66,9 @@ SEE THE IMAGES FOR A GENERAL IDEA
     
     
     IN EXECUTE SHELL FOLLOW THESE COMMANDS PROVIDED IN IMAGE
-   ![JOB2](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job2_1.png)
-   ![JOB2](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job2_2.png)
-   ![JOB2](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job2_3.png)
+   ![JOB2_1](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job2_1.png)
+   ![JOB2_2](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job2_2.png)
+   ![JOB2_3](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job2_3.png)
     
     
 
@@ -103,9 +103,12 @@ SEE THE IMAGES FOR A GENERAL IDEA
   
    IN EXECUTE SHELL FOLLOW THESE COMMANDS PROVIDED IN IMAGE
    
-  ![Job3](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job3_1.png)
-  ![Job3](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job3_2.png)
-  ![Job3](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job3_3.png)
-  ![Job3](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job3_4.png
+  ![Job3_1](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job3_1.png)
+  
+  ![Job3_2](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job3_2.png)
+  
+  ![Job3_3](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job3_3.png)
+  
+  ![Job3_4](https://github.com/Shivanshnite/DEPLOYS/blob/master/Job3_4.png)
   
   
